@@ -21,6 +21,7 @@ filetype plugin indent on    " required
 "*************************************************************************
 "above are vundle configs
 "*************************************************************************
+set ff=unix
 
 " Turn on syntax highlighting.
 syntax on
